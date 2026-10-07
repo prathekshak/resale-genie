@@ -1,4 +1,4 @@
-# 📱 ReSellAI – AI Mobile Resale & Marketplace Platform
+# 📱 Resale Genie – AI Mobile Resale & Marketplace Platform
 
 
 **ReSellAI** is a production-grade **AI-powered mobile phone resale marketplace** that combines computer vision, machine learning, and cloud payments to create a trustworthy P2P trading platform. The platform accurately estimates phone resale values through damage analysis and device specifications, while providing automated customer support via RAG (Retrieval-Augmented Generation).
